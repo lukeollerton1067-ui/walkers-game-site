@@ -26,7 +26,7 @@ It includes:
 1. Go to **Settings → Pages**.  
 2. Under **Source**, select `main` branch and `/ (root)`.  
 3. Save — the site will be live at:  
-   `https://<your-username>.github.io/walkers-game-site/`
+   `https://<lukeollerton1067-ui>.github.io/walkers-game-site/`
 
 ### Netlify (alternative)
 1. Log in at [Netlify](https://www.netlify.com).  
